@@ -1,0 +1,7 @@
+make contact form responsive. 
+
+Menu page - just a nicely laid out write up, multiple formatting. 
+
+Workshops page - pretend they're monthly, list four and add a contact modal. 
+
+Pick a fucking font. 
